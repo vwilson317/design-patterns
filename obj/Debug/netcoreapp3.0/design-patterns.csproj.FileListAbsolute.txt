@@ -1,0 +1,11 @@
+/Users/vincent/Documents/git/design-patterns/bin/Debug/netcoreapp3.0/design-patterns
+/Users/vincent/Documents/git/design-patterns/bin/Debug/netcoreapp3.0/design-patterns.deps.json
+/Users/vincent/Documents/git/design-patterns/bin/Debug/netcoreapp3.0/design-patterns.runtimeconfig.json
+/Users/vincent/Documents/git/design-patterns/bin/Debug/netcoreapp3.0/design-patterns.runtimeconfig.dev.json
+/Users/vincent/Documents/git/design-patterns/bin/Debug/netcoreapp3.0/design-patterns.dll
+/Users/vincent/Documents/git/design-patterns/bin/Debug/netcoreapp3.0/design-patterns.pdb
+/Users/vincent/Documents/git/design-patterns/obj/Debug/netcoreapp3.0/design-patterns.csprojAssemblyReference.cache
+/Users/vincent/Documents/git/design-patterns/obj/Debug/netcoreapp3.0/design-patterns.AssemblyInfoInputs.cache
+/Users/vincent/Documents/git/design-patterns/obj/Debug/netcoreapp3.0/design-patterns.AssemblyInfo.cs
+/Users/vincent/Documents/git/design-patterns/obj/Debug/netcoreapp3.0/design-patterns.dll
+/Users/vincent/Documents/git/design-patterns/obj/Debug/netcoreapp3.0/design-patterns.pdb
